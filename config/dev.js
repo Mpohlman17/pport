@@ -1,7 +1,7 @@
 // hbsdfiuhrguihrghergl
 module.exports = {
-  githubClientID: "117217df56577a46ab10",
-  githubClientSecret: "6b92fa6fc1a2bba757401665277a425c3ca8ddaa",
+  githubClientID: "7bc5aa4eba9e8b3b750e",
+  githubClientSecret: "bc93cfdbffb072547ab88fe5798fc0d471fc7681",
   cookieKey: "mike",
   githubCallbackURL:
     "https://nameless-river-10330.herokuapp.com/auth/github/callback"
